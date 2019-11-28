@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "alfy": "^0.9.1",
-    "execa": "^2.0.4"
+    "execa": "^3.3.0"
   }
 }
